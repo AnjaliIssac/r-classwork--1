@@ -1,0 +1,21 @@
+b <-12
+c(2 , 4,"hello", TRUE)
+month.abb
+month(6)
+month[6]
+month.abb
+month.add[3]
+month.abb[3]
+1:5
+months=month.abb
+month[3]
+months[3]
+month.abb
+month.abb[2]
+month.abb[2:4]
+month.abb[7:9]
+days=c("Mon","Tue","Wed")
+days
+week_end=c("Sat","Sun")
+more_days=c(days,"Thurs","Fri",week_end)
+more_days
